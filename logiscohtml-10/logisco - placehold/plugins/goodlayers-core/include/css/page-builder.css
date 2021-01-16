@@ -718,17 +718,17 @@
     -moz-background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 1));
     -o-background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 1));
     -webkit-background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 1)); }
-.gdlr-core-tab-feature-item .gdlr-core-tab-feature-title-background-overlay-active{ background: #143369; 
-	background: linear-gradient(rgba(20, 51, 105, 0.6), rgba(20, 51, 105, 1));
-    -moz-background: linear-gradient(rgba(20, 51, 105, 0.6), rgba(20, 51, 105, 1));
-    -o-background: linear-gradient(rgba(20, 51, 105, 0.6), rgba(20, 51, 105, 1));
-    -webkit-background: linear-gradient(rgba(20, 51, 105, 0.6), rgba(20, 51, 105, 1)); }
-.gdlr-core-tab-feature-item .gdlr-core-tab-feature-item-content-wrap{ background: #143369; }
-.gdlr-core-tab-feature-item .gdlr-core-tab-feature-title{ color: #fff; }
-.gdlr-core-tab-feature-item .gdlr-core-tab-feature-caption{ color: #c6c6c6; }
-.gdlr-core-tab-feature-item .gdlr-core-tab-feature-content-left-title{ color: #ffffff; }
-.gdlr-core-tab-feature-item .gdlr-core-tab-feature-content-left-caption{ color: #c4d8fc; }
-.gdlr-core-tab-feature-item .gdlr-core-tab-feature-content-right{ color: #fff; }
+.gdlr-core-tab-feature-item .gdlr-core-tab-feature-title-background-overlay-active{ background: rgba(105, 20, 20, 0.6); 
+	background: linear-gradient(rgba(105, 20, 20, 0.6), rgb(105, 20, 20));
+    -moz-background: linear-gradient(rgba(105, 20, 20, 0.6), rgba(105, 20, 20));
+    -o-background: linear-gradient(rgba(105, 20, 20, 0.6), rgba(105, 20, 20));
+    -webkit-background: linear-gradient(rgba(105, 20, 20, 0.6), rgba(105, 20, 20)); }
+.gdlr-core-tab-feature-item .gdlr-core-tab-feature-item-content-wrap{ background:#fff; }
+.gdlr-core-tab-feature-item .gdlr-core-tab-feature-title{ color:#fff; }
+.gdlr-core-tab-feature-item .gdlr-core-tab-feature-caption{ color: black; }
+.gdlr-core-tab-feature-item .gdlr-core-tab-feature-content-left-title{ color: black; }
+.gdlr-core-tab-feature-item .gdlr-core-tab-feature-content-left-caption{ color: black; }
+.gdlr-core-tab-feature-item .gdlr-core-tab-feature-content-right{ color: black; }
 .gdlr-core-tab-feature-item .gdlr-core-tab-feature-content-right-divider{ border-bottom-color: #e53d34; }
 .gdlr-core-tab-feature-item .gdlr-core-tab-feature-button-style-solid{ background: #e53d34; color: #fff; }
 .gdlr-core-tab-feature-item .gdlr-core-tab-feature-button-style-solid:hover{ color: #fff; }
